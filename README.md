@@ -1,0 +1,2 @@
+# BitValCoin
+For Bitcoin Mining
